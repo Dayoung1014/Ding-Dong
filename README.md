@@ -128,8 +128,10 @@
 - 채팅, 춤추기, 기뻐하기, 슬퍼하기, 주사위 게임 등의 상호작용이 가능합니다.
 <div>
     <img src="etc/assets/7_2.gif" width="200px"/>
-    <img src="etc/assets/7_3.gif" width="200px"/>
-    <img src="etc/assets/7_4.gif" width="200px"/> 
+    <img src="etc/assets/7_4.gif" width="200px"/>  
+    <img src="etc/assets/multi_chat.gif" width="200px"/>
+    <img src="etc/assets/multi_action.gif" width="200px"/>
+
 </div>
 
 ***
